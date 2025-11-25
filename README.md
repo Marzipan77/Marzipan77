@@ -17,7 +17,7 @@
 
 ## Skills & Technologies
 
-html,css,js,java,git,mysql,react,nodejs,py,bootstrap,cs,dotnet,laravel,sqlite
+html css js,java,git,mysql,react,nodejs,py,bootstrap,cs,dotnet,laravel,sqlite
 
 ## Recent Activity
 
