@@ -25,17 +25,6 @@ html,css,js,java,git,mysql,react,nodejs,py,bootstrap,cs,dotnet,laravel,sqlite
 - 🚀 Improved **document acknowledgment system** with personalized links in Power Automate  
 - 🛠️ Built a **SharePoint HR flow** for onboarding and policy confirmations  
 - 📚 Developing **FlashCardAI** to help students revise from PDFs  
-- 🎮 Added new puzzles to **Task_Game**
-
-
-## Latest Blog Posts
-
-### ✍️ Latest Blog Posts
-- [Automating HR Acknowledgment Flows with Power Automate](#)
-- [How I Built an AI Flashcard Tool with React + FastAPI](#)
-- [Developing local Support ticketing system](#)
-- [Been slaking off on github do to job (NDA)](#)
-- [Would like to contribute and work on different projects](#)
 
 ## Connect with Me
 
