@@ -43,7 +43,7 @@
 📝 Recent Activity
 - 🚀 Improved **document acknowledgment system** with personalized links in Power Automate  
 - 🛠️ Built a **SharePoint HR flow** for onboarding and policy confirmations  
-- 📚 Developing **FlashCardAI** to help students revise from PDFs  
+- 📚 Developing and managing my own project about Non-conformaties
 
 ## Connect with Me
 
