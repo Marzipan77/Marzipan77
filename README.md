@@ -10,7 +10,7 @@
 👨‍💻 About Me
 - 🎓 3rd year Computer Science student at University of Latvia  
 - 💼 Junior Automation Specialist @ Kronus  
-- 🌱 Currently exploring **REACT**, **JavaScript**, **PowerAutomate** and **AI tools**  
+- 🌱 Currently exploring **REACT**, **JavaScript**, **Python**, **Automation** and **AI tools**  
 - 🔍 Passionate about problem-solving, data-driven decision making, and creating meaningful solutions  
 - 🎮 In my free time, I like working on side projects (games, AI tools) and exploring new tech stacks
 
