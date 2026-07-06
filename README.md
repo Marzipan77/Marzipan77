@@ -1,15 +1,15 @@
 ## Hi there! 👋
 
 🎓 Computer Science student at University of Latvia  
-💼 Junior Automation Specialist @ Kronus  
+💼 IT Automation Specialist @ Kronus  
 ⚡ Interested in automation, AI, backend  and frontend development
 
 
 ## About Me
 
 👨‍💻 About Me
-- 🎓 3rd year Computer Science student at University of Latvia  
-- 💼 Junior Automation Specialist @ Kronus  
+- 🎓 4th year Computer Science student at University of Latvia  
+- 💼 IT Automation Specialist @ Kronus  
 - 🌱 Currently exploring **PHP**, **JavaScript**, **Python**, **Automation** and **AI tools**  
 - 🔍 Passionate about problem-solving, data-driven decision making, and creating meaningful solutions  
 - 🎮 In my free time, I like working on side projects (games, AI tools) and exploring new tech stacks
