@@ -7,12 +7,16 @@
 
 ## About Me
 
-👨‍💻 About Me
-- 🎓 4th year Computer Science student at University of Latvia  
-- 💼 IT Automation Specialist @ Kronus  
-- 🌱 Currently exploring **PHP**, **JavaScript**, **Python**, **Automation** and **AI tools**  
-- 🔍 Passionate about problem-solving, data-driven decision making, and creating meaningful solutions  
-- 🎮 In my free time, I like working on side projects (games, AI tools) and exploring new tech stacks
+I’m a 4th-year Computer Science student at the University of Latvia and an IT Automation Specialist at Kronus.
+
+I work with automation, integrations, internal tools, and data-driven process improvements. My practical experience includes building workflows, connecting systems through APIs, working with SharePoint, Power Automate, JavaScript, Python, and backend-related logic.
+
+Currently, I’m exploring open-source development, backend systems, automation tools, AI-assisted workflows, and full-stack development. I’m especially interested in projects where technology solves real business or workflow problems.
+
+Outside of work and studies, I like building side projects, experimenting with new tech stacks, and learning by creating practical tools.
+
+Main interests:
+Automation · Backend Development · APIs · AI Tools · Internal Systems · Full-Stack Development
 
 
 ### Skills & Technologies
